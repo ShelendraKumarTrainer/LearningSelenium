@@ -63,3 +63,10 @@
 13.09.2023 15:42:14,604 INFO  LoginPage:43 - Login button is clicked.
 13.09.2023 15:42:17,050 INFO  HomePage:37 - profile Picture button is clicked.
 13.09.2023 15:42:20,283 INFO  HomePage:41 - Logout link is cliked.
+22.09.2023 13:16:23,181 INFO  LoginPage:35 - Username is entered in username text box
+22.09.2023 13:18:03,665 INFO  LoginPage:35 - Username is entered in username text box
+22.09.2023 13:20:51,187 INFO  LoginPage:35 - Username is entered in username text box
+22.09.2023 13:20:52,036 INFO  LoginPage:39 - Pssword is entered in Password text box
+22.09.2023 13:20:52,395 INFO  LoginPage:43 - Login button is clicked.
+22.09.2023 13:20:54,177 INFO  HomePage:37 - profile Picture button is clicked.
+22.09.2023 13:20:56,150 INFO  HomePage:41 - Logout link is cliked.
